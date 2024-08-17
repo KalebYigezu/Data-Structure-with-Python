@@ -1,2 +1,2 @@
 # Data-Structure-with-Python
-Implementing Stack in Python using Linked List
+Implementing Stack in Python using Singly Linked List
