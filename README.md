@@ -1,4 +1,4 @@
-# Implementing Stack in Python using Singly Linked List
+# Working with Push, Pop, & Display
 
 Cases:
   To Push:
